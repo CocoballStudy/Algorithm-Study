@@ -136,8 +136,6 @@ local workspace에 'ohhako'라는 이름으로 브랜치 생성<br>
 7. <code> **git merge ohhako** </code> - master에 ohhako 브랜치 작업 반영
 8. <code> **git push origin master** </code> - 원격저장소 master에 반영
 
-## <br><br>
-
 ## 각 알고리즘 문제집
 
 여기에서는 각 알고리즘 개념을 설명하는 것이 없습니다. [알고리즘 설명 링크 모음](./link_for_study.md)
