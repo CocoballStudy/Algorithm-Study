@@ -96,14 +96,10 @@ Codility https://app.codility.com/programmers/ <br>
 3. 미팅이 끝나고 각자 위의 **4번, 알고리즘을 이해하고 다시 푼다** 를 진행한다.
    <br><br>
 
-## Git 저장소 이용하는 방법
-
-- 저장소 : https://github.com/TheCopiens/algorithm-study
 
 ### 폴더 설명
 
 - contents: 공동폴더. 알고리즘 관련 이론을 정리해서 업로드하는 폴더
-- docs: 공동폴더. 이론 이외의 문서를 업로드하는 폴더
 - source: 개인 폴더. 필요한 개인폴더를 생성하고 알고리즘 풀이를 업로드하는 폴더
 
 <br>
