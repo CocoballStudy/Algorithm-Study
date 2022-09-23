@@ -167,7 +167,7 @@ local workspace에 'ohhako'라는 이름으로 브랜치 생성<br>
 | 02 | Data Structure | 자료구조 | [바로가기](./data_structure) | 16 | 25 |
 | 03 | Data Structure 2 | 자료구조 2 | [바로가기](./data_structure2) | 11 | 21 |
 | 04 | Brute Force | 완전탐색 | [바로가기](./brute_force) | 33 | 94 |
-| 05 | Implementation | 구현 | [바로가기](./implementation) | 30 | 51 |
+| 05 | Implementation | 구현 | [바로가기](github.com/tony9402/baekjoon/tree/main/implementation) | 30 | 51 |
 | 06 | Simulation | 시뮬레이션 | [바로가기](./simulation) | 30 | 48 |
 | 07 | Tree | 트리 | [바로가기](./tree) | 15 | 44 |
 | 08 | Greedy | 탐욕법 | [바로가기](./contents/greedy_list.md) | 27 | 62 |
