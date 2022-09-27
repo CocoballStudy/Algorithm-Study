@@ -13,11 +13,13 @@ dy = [0, 1, 0, -1]
 count = 1  # 시작할때 한 칸 방문했으니까 count 1 로 시작
 check = 0  # 회전 횟수
 
+
 def turn():  # 왼쪽으로 회전
     global d
     d -= 1
     if d == -1:
         d = 3
+
 
 while True:
     turn()
