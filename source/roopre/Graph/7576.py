@@ -26,6 +26,7 @@ if __name__ == "__main__":
     day = 0
     while len(q) != 0:
         t = q.popleft()
+
         for d in range(4):
             mx = t[0] + dx[d]
             my = t[1] + dy[d]
